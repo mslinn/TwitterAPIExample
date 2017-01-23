@@ -1,14 +1,14 @@
 {
   "name": "twitter-example",
   "version": "1.0.0",
-  "description": "This is my first twitter example",
+  "description": "Stream, post and fetch Twitter posts",
   "main": "index.js",
   "scripts": {
-	"start" : "node twitter-example.js",
+    "start" : "node twitter-example.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "deepak mehra",
-  "license": "ISC",
+  "author": "Mike Slinn",
+  "license": "MIT",
   "dependencies": {
     "twit": "^2.2.5"
   }

@@ -1,4 +1,3 @@
-console.log("Example is up now.")
 var Twit = require('twit');
 var config = require('./config')
 var T = new Twit(config);
