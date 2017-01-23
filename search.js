@@ -2,7 +2,7 @@ var Twit = require('twit');
 var config = require('./config')
 var T = new Twit(config);
 var params = { 
-  q: 'akshay',
+  q: 'alexa',
   count: 100 
 }
 
